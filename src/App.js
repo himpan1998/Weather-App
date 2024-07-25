@@ -1,9 +1,9 @@
 import React from "react";
-
+import Weather from "./Weather";
 function App() {
   return (
     <div>
-      <h1>Heeloo</h1>
+      <Weather />
     </div>
   );
 }
