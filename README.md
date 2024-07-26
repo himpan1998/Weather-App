@@ -10,7 +10,7 @@
 
 # To See Demo:
 
-Link:
+Link: https://weatherapphimanshu.netlify.app/
 
 ## Technologies Used
 
