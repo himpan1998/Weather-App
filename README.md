@@ -28,4 +28,4 @@ Link: https://weatherapphimanshu.netlify.app/
 
 - REACT_APP_WEATHER_API_KEY=your_api_key_here (put key name as per your choice in .env file and put the value)
 
--Build the Project: npm run build
+- Build the Project: npm run build
